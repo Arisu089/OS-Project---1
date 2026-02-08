@@ -197,17 +197,26 @@ computation-to-overhead ratio.
 ## Authors
 
 
-PALURI VEERA DURGA VARA PRASAD	24CS8031	
-GOGULAMUDI PREM SANTHOSH	24CS8032	
-PRADIP GORAI	24CS8033	
-GUNTREDDI NEELAPRASANTH	24CS8034	
-DARLA POOJITHA	24CS8035	
-ANJALI SINGH	24CS8036
-ANIKET HALDAR	24CS8037	
-ARPIT VERMA	24CS8038	
-HIMANSHU GUPTA	24CS8039	
-RAJ GURU        24CS8040
-
+- PALURI VEERA DURGA VARA PRASAD	24CS8031
+   
+- GOGULAMUDI PREM SANTHOSH	        24CS8032
+   
+- PRADIP GORAI	                    24CS8033
+  
+- GUNTREDDI NEELAPRASANTH	        24CS8034
+   
+- DARLA POOJITHA	                24CS8035
+   
+- ANJALI SINGH	                    24CS8036
+  
+- ANIKET HALDAR	                    24CS8037
+   
+- ARPIT VERMA	                    24CS8038
+   
+- HIMANSHU GUPTA                	24CS8039
+  
+- RAJ GURU                          24CS8040
+ 
 ------------------------------------------------------------------------
 
 ## Conclusion
